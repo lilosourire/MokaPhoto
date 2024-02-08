@@ -11,4 +11,8 @@
     ); ?>
     <?php endif;
     ?>
+    // appelle ici la modale de contact
+<?php
+get_template_part('templates_part/modale-contact');
+?>
     </footer>
